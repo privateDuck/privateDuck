@@ -13,7 +13,7 @@ Almost everything I build is open source, so feel free to poke around, break thi
 </p>
 
 <p align="center">
-<a href="https://privateduck.dev"><img src="https://img.shields.io/badge/portfolio-visit-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://privateduck.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/portfolio-visit-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
 <br>
@@ -34,7 +34,7 @@ Almost everything I build is open source, so feel free to poke around, break thi
 
 </p>
 
-
+<!--
 ### 📈 Contributions
 
 <p align="center">
@@ -43,4 +43,5 @@ Almost everything I build is open source, so feel free to poke around, break thi
 
 <br>
 
-<p align="center"><i>Currently compiling... please wait ⏳</i></p>
+<p align="center"><i>Currently compiling... please wait ⏳</i></p> 
+-->
